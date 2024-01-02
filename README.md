@@ -1,2 +1,2 @@
 # Java-Repository
-This repository contains my archives when studying Java from basic to advanced.
+This repository archives my progress in learning Java from basic to more advanced.
