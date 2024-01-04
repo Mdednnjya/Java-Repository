@@ -1,4 +1,4 @@
-public class main{
+public class FindingtheLargestValue{
     public static void main(String[] args) {
         int a[] = {3,4,5,6,7,5,10,198,220,04};
         int maxvalue = 0;
