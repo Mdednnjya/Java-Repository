@@ -4,7 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class main {
+public class HukumanDosen {
 
     public static void main(String[] args) {
         Scanner get = new Scanner(System.in);
