@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class main {
+public class HitungKembalianBudi {
 
     public static void main(String[] args) {
         Scanner get = new Scanner(System.in);
