@@ -1,2 +1,2 @@
 # Java-Repository
-This repository archives my progress in learning Java from basic to more advanced.
+Java is a high-level programming language known for its platform independence, object-oriented paradigm.
